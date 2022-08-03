@@ -27,6 +27,8 @@ for (i=0; i<words.length; i++) {
   }
 }
 
+// https://www.loom.com/share/4260126f29184a378429c5cd0132711c
+
 // 📹 Record yourself live-coding and talking through any ONE of the challenges.
   // The recording doesn't have to be the first time you are solving the problem.
   // Use technical vocabulary and explain each part to demonstrate your understanding!
